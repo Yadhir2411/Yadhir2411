@@ -14,7 +14,7 @@
 
 
 
-[linkedin]: (https://www.linkedin.com/in/yadhir-inderparsad-8b13021a1/)
+[linkedin]: (https://www.linkedin.com/in/yadhirinderparsad/)
 
 <!--
 
